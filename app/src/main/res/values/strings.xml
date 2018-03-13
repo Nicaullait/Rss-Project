@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">rss project</string>
+    <string name="connection_error">erreur de connexion</string>
+    <string name="xml_error">erreur xml</string>
+</resources>
